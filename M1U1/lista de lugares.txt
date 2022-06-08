@@ -1,3 +1,6 @@
 roma 
 bulgaria
 paris
+cordoba
+san luis
+rio negro
