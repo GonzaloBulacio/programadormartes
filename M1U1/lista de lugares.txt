@@ -4,3 +4,4 @@ paris
 cordoba
 san luis
 rio negro
+tucuman
